@@ -1,0 +1,207 @@
+.instance-child6 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  object-fit: cover;
+  min-height: 48;
+  display: flex;
+}
+.instance-child6:hover {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  min-height: 48;
+}
+.looking-for-love6 {
+  width: 58px;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 700;
+  height: auto;
+}
+.looking-for-love6:hover {
+  font-weight: 700;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: 58px;
+  height: auto;
+}
+.listen-again16 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  display: flex;
+  height: auto;
+}
+.listen-again16:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  flex: 1;
+  height: auto;
+}
+.frame-child8 {
+  width: 6px;
+  height: 6px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  display: flex;
+}
+.frame-child8:hover {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  width: 6px;
+  height: 6px;
+}
+.ellipse-wrapper6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.ellipse-wrapper6:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+}
+.listen-again17 {
+  align-self: stretch;
+  width: 92px;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  height: auto;
+}
+.listen-again17:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: 92px;
+  height: auto;
+}
+.listen-again-parent7 {
+  width: 324px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  max-width: 164%;
+  flex-shrink: 0;
+}
+.listen-again-parent7:hover {
+  display: flex;
+  width: 324px;
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-10xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 164%;
+  flex-shrink: 0;
+}
+.looking-for-love-lee-dagger-d-parent4 {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  width: auto;
+}
+.looking-for-love-lee-dagger-d-parent4:hover {
+  display: flex;
+  align-self: stretch;
+  width: auto;
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper10 {
+  height: 45px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.frame-wrapper10:hover {
+  display: flex;
+  flex: 1;
+  height: 45px;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+}
+.rectangle-parent4 {
+  width: 254px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  height: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-parent4:hover {
+  display: flex;
+  width: 254px;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}

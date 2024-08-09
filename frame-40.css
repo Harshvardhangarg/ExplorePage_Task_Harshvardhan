@@ -1,0 +1,207 @@
+.instance-child8 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  object-fit: cover;
+  min-height: 48;
+  display: flex;
+}
+.instance-child8:hover {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  min-height: 48;
+}
+.looking-for-love8 {
+  width: 83px;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 700;
+  height: auto;
+}
+.looking-for-love8:hover {
+  font-weight: 700;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: 83px;
+  height: auto;
+}
+.listen-again20 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  display: flex;
+  height: auto;
+}
+.listen-again20:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  flex: 1;
+  height: auto;
+}
+.frame-child10 {
+  width: 6px;
+  height: 6px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  display: flex;
+}
+.frame-child10:hover {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  width: 6px;
+  height: 6px;
+}
+.ellipse-wrapper8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.ellipse-wrapper8:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+}
+.listen-again21 {
+  align-self: stretch;
+  width: 92px;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  height: auto;
+}
+.listen-again21:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: 92px;
+  height: auto;
+}
+.listen-again-parent9 {
+  width: 325px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs-5);
+  max-width: 165%;
+  flex-shrink: 0;
+}
+.listen-again-parent9:hover {
+  display: flex;
+  width: 325px;
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-9xs-5);
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 165%;
+  flex-shrink: 0;
+}
+.looking-for-love-lee-dagger-d-parent6 {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  width: auto;
+}
+.looking-for-love-lee-dagger-d-parent6:hover {
+  display: flex;
+  align-self: stretch;
+  width: auto;
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper12 {
+  height: 45px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.frame-wrapper12:hover {
+  display: flex;
+  flex: 1;
+  height: 45px;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+}
+.rectangle-parent6 {
+  width: 254px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  height: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-parent6:hover {
+  display: flex;
+  width: 254px;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}

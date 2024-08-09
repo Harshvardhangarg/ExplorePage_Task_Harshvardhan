@@ -1,0 +1,126 @@
+.instance-item {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  border-radius: var(--br-231xl);
+  object-fit: cover;
+  display: flex;
+}
+.instance-item:hover {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  border-radius: var(--br-231xl);
+}
+.listen-again2 {
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  min-width: 96;
+  font-weight: 700;
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.listen-again2:hover {
+  font-weight: 700;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  min-width: 96;
+}
+.m-subscribers2 {
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.m-subscribers2:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.m-subscribers-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-9xs);
+}
+.m-subscribers-frame:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-9xs);
+  align-items: center;
+  justify-content: center;
+}
+.listen-again-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.listen-again-group:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-9xs);
+  align-items: center;
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+  box-sizing: border-box;
+}
+.rectangle-root {
+  flex: 1;
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  min-width: 80;
+  height: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-root:hover {
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  align-items: center;
+  justify-content: center;
+  min-width: 80;
+}

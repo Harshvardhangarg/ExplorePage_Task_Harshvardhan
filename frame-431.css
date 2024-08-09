@@ -1,0 +1,219 @@
+.instance-child11 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  object-fit: cover;
+  min-height: 48;
+  display: flex;
+}
+.instance-child11:hover {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  min-height: 48;
+}
+.looking-for-love11 {
+  width: 103px;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 700;
+  height: auto;
+}
+.looking-for-love11:hover {
+  font-weight: 700;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: 103px;
+  height: auto;
+}
+.listen-again26 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  display: flex;
+  min-width: 61;
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.listen-again26:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  min-width: 61;
+}
+.frame-child13 {
+  width: 6px;
+  height: 6px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  display: flex;
+}
+.frame-child13:hover {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  width: 6px;
+  height: 6px;
+}
+.ellipse-wrapper11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.ellipse-wrapper11:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+}
+.listen-again27 {
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  min-width: 92;
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.listen-again27:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  min-width: 92;
+}
+.listen-again-parent12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs-5);
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.listen-again-parent12:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-9xs-5);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.looking-for-love-lee-dagger-d-parent9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-13xl) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.looking-for-love-lee-dagger-d-parent9:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-13xl) 0px 0px;
+  box-sizing: border-box;
+}
+.frame-wrapper15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.frame-wrapper15:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+}
+.rectangle-parent9 {
+  position: relative;
+  width: auto;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  align-self: unset;
+  height: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-parent9:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}

@@ -1,0 +1,207 @@
+.rectangle-icon {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  object-fit: cover;
+  min-height: 48;
+  display: flex;
+}
+.rectangle-icon:hover {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  min-height: 48;
+}
+.looking-for-love {
+  width: 64px;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 700;
+  height: auto;
+}
+.looking-for-love:hover {
+  font-weight: 700;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  width: 64px;
+  height: auto;
+}
+.listen-again4 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  min-width: 97;
+  height: auto;
+}
+.listen-again4:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  flex: 1;
+  height: auto;
+  min-width: 97;
+}
+.frame-child2 {
+  width: 6px;
+  height: 6px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  display: flex;
+}
+.frame-child2:hover {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  width: 6px;
+  height: 6px;
+}
+.ellipse-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.ellipse-frame:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-6xs-5) 0px 0px;
+  box-sizing: border-box;
+}
+.listen-again5 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  min-width: 92;
+  height: auto;
+}
+.listen-again5:hover {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: var(--color-white);
+  display: flex;
+  flex: 1;
+  height: auto;
+  min-width: 92;
+}
+.listen-again-parent1 {
+  width: 203px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  height: auto;
+}
+.listen-again-parent1:hover {
+  display: flex;
+  width: 203px;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.looking-for-love-lee-dagger-d-parent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  width: auto;
+  align-self: unset;
+  height: auto;
+}
+.looking-for-love-lee-dagger-d-parent:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  gap: var(--gap-0);
+  transform: rotate(0deg);
+}
+.frame-wrapper4:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: column;
+  gap: var(--gap-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(0deg);
+  padding: var(--padding-10xs) 0px 0px;
+  box-sizing: border-box;
+}
+.rectangle-wrapper {
+  position: relative;
+  width: auto;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  align-self: unset;
+  height: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-wrapper:hover {
+  display: flex;
+  width: auto;
+  align-self: unset;
+  height: auto;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}

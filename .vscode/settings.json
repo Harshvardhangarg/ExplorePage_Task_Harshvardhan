@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Frontend_Harshvardhan",
+    "id": "66b5dbddec3460195ab59ea0",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\ExplorePage_Task_Harshvardhan\\src\\components",
+    "screensPath": "c:\\ExplorePage_Task_Harshvardhan\\src\\pages"
+  }
+}
